@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="graphlib-student",  # Уникальное имя!
-    version="0.1.2",
+    name="graphlib-student",
+    version="0.1.6",
     packages=find_packages(),
     install_requires=[
         "matplotlib",
@@ -18,4 +18,9 @@ setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
+    url="https://github.com/PolinaEK/graphlib-student.git",
+    project_urls={
+        "Source": "https://github.com/PolinaEK/graphlib-student.git",
+        "Bug Tracker": "https://github.com/PolinaEK/graphlib-student/issues",
+    },
 )
