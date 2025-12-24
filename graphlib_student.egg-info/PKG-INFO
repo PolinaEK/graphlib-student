@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: graphlib-student
+Version: 0.1.2
+Summary: Учебная библиотека для работы с графами
+Author: Polina
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: networkx
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# GraphLib
+
+Небольшая учебная библиотека для работы с графами:
+- создание графов
+- алгоритм Дейкстры
+- визуализация графов
+
+## Установка зависимостей
