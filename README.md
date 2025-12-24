@@ -11,6 +11,9 @@
 
 [GitHub репозиторий](https://github.com/PolinaEK/graphlib-student.git)
 
+
+[PyPi](https://pypi.org/project/graphlib-student/)
+
 ##  Установка Установите библиотеку через pip:
 
 ```bash 

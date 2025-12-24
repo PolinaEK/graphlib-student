@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: graphlib-student
-Version: 0.1.6
+Version: 0.1.8
 Summary: Учебная библиотека для работы с графами
 Home-page: https://github.com/PolinaEK/graphlib-student.git
 Author: Polina
@@ -35,6 +35,9 @@ Dynamic: summary
 Учебная библиотека для работы с графами: создание, визуализация и алгоритмы на Python. Простая, понятная и удобная для студентов и преподавателей. 
 
 [GitHub репозиторий](https://github.com/PolinaEK/graphlib-student.git)
+
+
+[PyPi](https://pypi.org/project/graphlib-student/)
 
 ##  Установка Установите библиотеку через pip:
 
